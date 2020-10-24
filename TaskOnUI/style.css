@@ -1,0 +1,636 @@
+img.landing{
+    float: right;
+    z-index: -1;
+    width: 100%;
+    position: absolute;
+    /* overflow-x: hidden; */
+}
+img.land{
+    float:left;
+    /* z-index: -1; */
+    width: 100%;
+    /* position: absolute; */
+    transform: rotate(180deg); 
+   
+}
+img.land2{
+    float: left;
+    width: 100%;
+    transform: rotate(180deg);
+}
+img.land3{
+    float: left;
+    width: 100%;
+    transform: rotate(180deg);
+}
+img.style{
+    position: absolute;
+     z-index: 1;
+}
+img.style3{
+    position: absolute;
+     z-index: 1;
+}
+img.style2{
+    position: absolute;
+     z-index: 1;
+}
+body{
+    overflow-x: hidden;
+}
+div.feature{
+    margin-top: 20px;
+    /* background-color: saddlebrown; */
+}
+div.aim{
+    margin-top: 60px;
+     margin-bottom: 25px;
+}
+ul.nav {
+    font-size: smaller;
+    border-bottom: white;
+}
+h1#padding{
+    margin-bottom: 25px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+p#padding{
+    margin-bottom: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.btn btn-danger navbar-btn{
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+
+}
+#background{
+    width: 200px;
+    height: 200px;
+
+}
+
+#below{
+ margin-top: 30px; 
+}
+.btn#shadow{
+    box-shadow: 1px 1px 4px whitesmoke ;
+}
+li#red a {
+    
+    border-bottom: 1px solid rgba(66, 66, 66, 0.123);
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  
+}
+
+li#red.active{
+    border-bottom:1px solid red ;
+}
+li#reds.active{
+    border-bottom:1px solid red ;
+}
+div#shape{
+    position: relative; 
+    width: 40%;
+    height: 40%;
+    background: blue;
+    right:  0px;
+    margin-top: 90px;
+}
+#jum{
+    /* position: absolute;  */
+      margin-top: 40px;
+     float: right; 
+     /* z-index: -1;     */
+}
+#feature{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+img#second{
+  margin-top: 50px;  
+}
+div.click{
+    margin-top: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+img#secondTab{
+    margin-top: 50px; 
+    margin-left: 95px; 
+}
+div.click2{
+    margin-top: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+}
+img#thirdTab{
+   margin-top: 60px;     
+}
+div.click3{
+    margin-top: 120px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    left: -90px;
+}
+div.extension{
+    margin-top: 0;
+}
+.panel-group{
+    border: 0;
+    margin-bottom: 0;
+    padding: 0;
+    /* border: 2px solid red; */
+    background-color:white;
+}
+.thumbnail{
+    border: 1px solid rgba(66, 66, 66, 0.123);
+    border-radius: 3px;
+    margin-top: 15px;
+    width: 85%;
+    
+}
+div.nail{
+    margin-top: 10px;
+    left: 140px;
+}
+div.nail1{
+    margin-top: 30px;
+    left: 80px;
+}
+div.nail2{
+    margin-top: 50px;
+    left: 20px;
+}
+div.Question{
+    margin-top: 70px;
+}
+div.arrow{
+    float:right;
+}
+ul.Bookmark{
+    list-style-type: none;
+    padding: 20px;
+}
+ul.browser{
+    list-style-type: none;
+    padding: 20px;
+}
+ul.mobile{
+    border: 0;
+    list-style-type: none;
+    padding: 20px; 
+}
+ul.chrome{
+    list-style-type: none;
+    padding: 20px; 
+}
+img.arrow{
+    padding-left:252px;
+    cursor: pointer;
+}
+img.arrow2{
+    padding-left:160px;
+    cursor: pointer;
+}
+img.arrow3{
+    padding-left:237px;
+    cursor: pointer;
+}
+img.arrow4{
+    padding-left:140px;
+    cursor: pointer;
+}
+p li #lorem{
+    border-top: 1px solid gray;
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid gray;
+    
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+ul li{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: justify;
+    /* border-bottom: 1px solid gray; */
+}
+.lorem{
+    margin-left: 180px;
+}
+.lorembtn{
+    margin-left: 180px;
+    margin-top: 30px; 
+}
+h3#joined{
+    margin: 30px;
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 3px;
+}
+p#join{
+    font-size: x-large;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: white;
+    letter-spacing: 1px;
+}
+input#exampleInputEmail3{
+    margin: 8px;
+    height: 46px;
+    font-size: small;
+}
+img.icon{
+    float: right;
+    margin-top: 15px;
+}
+img.icogns{
+    float: right;
+    margin-top: 12px;
+}
+ul.order{
+    margin-top: -35px;
+    margin-left: 260px;
+}
+li.lidesign a{
+    color: white;
+    font-size:small;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+}
+div.badg{
+    margin-top: 40px;
+    margin-left: 130px;
+}
+div.myBrowser{
+    padding: 10px;
+    /* border-top: 1px solid gray; */
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(66, 66, 66, 0.123);
+}
+div.myQuestions{
+    padding: 10px;
+    border-top: 1px solid rgba(66, 66, 66, 0.123);
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(66, 66, 66, 0.123);
+}
+div.myChrome{
+    padding: 10px;
+    /* border-top: 1px solid gray; */
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(66, 66, 66, 0.123);
+}
+div.myMobile{
+    padding: 10px;
+    /* border-top: 1px solid gray; */
+    border-left: 0;
+    border-right: 0;
+    border-bottom: 1px solid rgba(66, 66, 66, 0.123);
+}
+
+@media(max-width:767px) {
+    body{
+        /* background-color: rgb(52, 43, 61); */
+    }
+     li#red{
+        border-bottom: 0;
+        border-top: 1px solid rgba(66, 66, 66, 0.123) ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+    li#reds{
+        border-bottom: 0;
+        border-top: 1px solid rgba(66, 66, 66, 0.123) ;
+        border-bottom: 1px solid rgba(66, 66, 66, 0.123) ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+     
+    div.click{
+        margin-top: 15px;
+        text-align: center;
+    } 
+    img#secondTab{
+        margin-left: 0px;
+    }
+    div.click2{
+        margin-top: 15px;
+        text-align: center;
+    }
+    img#thirdTab{
+      left: 0;     
+     }
+     div.click3{
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+    div.nail{
+        left: 30px;
+    }
+    div.nail1{
+        left: 30px;
+    }
+    div.nail2{
+        left: 30px;
+    }
+    input#exampleInputEmail3{
+        width: 90%;
+        margin-left: 20px;
+    }
+    button#exampleInputbut3{
+        left: -70px;
+        width: 90%;
+    }
+    div.lodo{
+        padding-top: 20px;
+       text-align: center;
+       
+    }
+    div.badg{
+        margin-top: 0;
+        margin-left: -100px;
+    }
+    img.jump{
+        margin-left: 140px;
+    }
+    ul.order{
+        margin-top: 15px;
+        margin-left:200px;
+       text-align: center;
+    }
+    img.arrow{
+        float:right;;
+    }
+    img.arrow2{
+        float:right;
+    }
+    img.arrow3{
+        float:right;
+    }
+    img.arrow4{
+        float:right;
+    }
+    img.landing{
+        margin-top: 10px;
+        right: -16px;
+    }
+    h1#padding{
+        margin-top: 40px;
+    }
+    ul.accordian{
+        padding: 20px;
+        border: 0;
+    }
+    li#red a{
+        border: 0;
+    }
+    li#reds a{
+        border: 0;
+    }
+    img.land{
+        margin-top: 100px;
+        margin-left:-13px;
+    }
+    img.land2{
+        margin-top: 170px;
+        margin-left:-14px;
+    }
+    img.style3{
+        margin-left: 70px;
+    }
+    img.land3{
+        margin-top: 50px;
+        margin-left:-19px;
+    }
+
+   
+
+}
+@media(min-width:767px) and (max-width:991px){
+    body{
+        background-color: burlywood;
+    }
+    p#padding{
+        text-align: center;
+    }
+    div.click2{
+        float: right;
+        right: -10px;
+    }
+    img#secondTab{
+        margin-left: -10px;
+    } 
+    img#thirdTab{
+        left: -10px;     
+       } 
+    div.click3{
+       margin-top:70px;
+        left:30px ;
+    }
+    div.nail{
+        left: 10px;
+        display: inline-block;
+    }
+    div.nail1{
+        margin-top: 10px;
+        left: 20px;
+    }
+    div.nail2{
+        left: 230px;
+    }
+    div.lodo{
+       float: left;
+    }
+    img#make{
+        margin-top: -79px;
+        margin-left: 600px;
+        cursor: pointer;
+    }
+    img#makes{
+        margin-top: -79px;
+        /* margin-left: 600px; */
+        cursor: pointer;
+    }
+    img.arrow{
+        float:right;
+    }
+    img.arrow2{
+        float:right;
+    }
+    img.arrow3{
+        float:right;
+    }
+    img.arrow4{
+        float:right;
+    }
+    img.landing{
+        margin-top: 10px;
+        right: -80px;
+    }
+    img.land{
+        margin-top: 100px;
+        margin-left:-110px;
+    }
+    img.style{
+     margin-left: -30px;
+
+    }
+    div.lands{
+        float: right;
+        margin-top: 20px;
+        margin-right: -60px;
+    }
+    img.land2{
+        margin-top: 150px;
+        margin-left:-108px;
+    }
+    img.land3{
+        margin-top: 160px;
+        margin-left:-115px;
+    }
+    img.style3{
+        margin-left: 10px;
+   
+     }
+     li#reds{
+        border-bottom: 0;
+        /* border-top: 1px solid rgba(66, 66, 66, 0.123) ; */
+        border-bottom: 1px solid rgba(66, 66, 66, 0.123) ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+   
+}
+ @media (min-width:992px) and (max-width:1199px) {
+    body{
+        background-color: goldenrod;
+        overflow-x: hidden;
+    }
+    div.click2{
+        float: right;
+        right: -100px;
+    }
+    div.click{
+        top:0;
+    }
+    div.click3{
+        /* margin-top:70px; */
+         left:27px ;
+     }
+     img#make{
+        margin-top: -79px;
+        margin-left: 830px;
+    }
+    img#makes{
+        margin-top: -79px;
+        /* margin-left: 600px; */
+    }
+    img.arrow{
+        padding-left:122px;
+    }
+    img.arrow2{
+        padding-left:43px;
+    }
+    img.arrow3{
+        padding-left:132px;
+    }
+    img.arrow4{
+        padding-left:18px;
+    }
+    img.landing{
+        right: -100px;
+    }
+    img.land{
+        margin-top: 100px;
+        margin-left:-110px;
+    }
+    div.lands{
+        float: right;
+        margin-top: 20px;
+        margin-right: -60px;
+    }
+    img.land2{
+        margin-top: 150px;
+        margin-left:-108px;
+    }
+    img.land3{
+        margin-top: 160px;
+        margin-left:-115px;
+    }
+    img.style3{
+        margin-left: 10px;
+   
+     }
+     li#reds{
+        border-bottom: 0;
+        /* border-top: 1px solid rgba(66, 66, 66, 0.123) ; */
+        border-bottom: 1px solid rgba(66, 66, 66, 0.123) ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+   
+ } 
+ @media(min-width: 1200px) {
+    body{
+        /* background-color: red; */
+    }
+    div.lodo{
+        margin-top: 10px;
+        float: left;
+     }
+     img#make{
+        margin-top: -79px;
+        /* margin-left: 830px; */
+    }
+    img#makes{
+        margin-top: -79px;
+        /* margin-left: 600px; */
+    }
+    img.arrow{
+        float:right;
+    }
+    img.arrow2{
+        float:right;
+    }
+    img.arrow3{
+        float:right;
+    }
+    img.arrow4{
+        float:right;
+    }
+    img.landing{
+        right:-79px;
+        margin-top: 30px;
+    }
+    img.land{
+        margin-top: 20px;
+        margin-left:-150px;
+    }
+    img.style2{
+        left: -50px;
+    }
+    img.style3{
+        margin-left: 70px;
+    }
+    img.land2{
+        margin-top: 50px;
+        margin-left:-120px;
+    }
+    img.land3{
+        margin-top: 20px;
+        margin-left:-115px;
+    }
+    li#reds{
+        border-bottom: 0;
+        /* border-top: 1px solid rgba(66, 66, 66, 0.123) ; */
+        border-bottom: 1px solid rgba(66, 66, 66, 0.123) ;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
+    }
+ } 
+   
+    
+
+#h3{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+#feature{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
